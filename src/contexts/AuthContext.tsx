@@ -100,7 +100,7 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
         id: '2',
         date: '2024-01-20',
         service: 'Домофонна система',
-        amount: '300 грн',
+        amount: '305 грн',
         status: 'paid',
         method: 'Банківський переказ'
       }
