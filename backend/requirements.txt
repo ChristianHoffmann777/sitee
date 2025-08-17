@@ -1,0 +1,10 @@
+Django==4.1.13
+gunicorn
+psycopg2-binary
+dj-database-url
+python-dotenv
+django-allauth
+django-cors-headers
+stripe
+PyJWT>=2.0.0
+cryptography
